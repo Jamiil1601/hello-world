@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi folks!
+
+Muhammad here. I like HTML5, CSS3, php and javascript!
+
